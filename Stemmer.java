@@ -81,7 +81,7 @@ public Stemmer()
 /**
  * Add a character to the word being stemmed.  When you are finished
  * adding characters, you can call stem(void) to stem the word.
- */
+ */ 
 
 public void add(char ch)
 {  if (i == b.length)
